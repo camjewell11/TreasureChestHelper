@@ -1,0 +1,556 @@
+# Treasure chest (POH costume room) storable items, by tier.
+# Source: https://oldschool.runescape.wiki/w/Treasure_chest_space (generated 2026-10-09)
+# Format: TIER<TAB>itemId<TAB>name
+BEGINNER	23309	Amulet of defence (t)
+BEGINNER	23291	Bear feet
+BEGINNER	23294	Demon feet
+BEGINNER	23288	Frog slippers
+BEGINNER	23297	Jester cape
+BEGINNER	23285	Mole slippers
+BEGINNER	23306	Monk's robe (t)
+BEGINNER	23303	Monk's robe top (t)
+BEGINNER	23330	Rune scimitar
+BEGINNER	23332	Rune scimitar
+BEGINNER	23334	Rune scimitar
+BEGINNER	23318	Sandwich lady bottom
+BEGINNER	23312	Sandwich lady hat
+BEGINNER	23315	Sandwich lady top
+BEGINNER	23300	Shoulder parrot
+EASY	10392	A powdered wig
+EASY	10366	Amulet of magic (t)
+EASY	23354	Amulet of power (t)
+EASY	20235	Ancient blessing
+EASY	12197	Ancient cloak
+EASY	12199	Ancient crozier
+EASY	12203	Ancient mitre
+EASY	12195	Ancient robe legs
+EASY	12193	Ancient robe top
+EASY	12201	Ancient stole
+EASY	12261	Armadyl cloak
+EASY	12263	Armadyl crozier
+EASY	12259	Armadyl mitre
+EASY	12255	Armadyl robe legs
+EASY	12253	Armadyl robe top
+EASY	12257	Armadyl stole
+EASY	12273	Bandos cloak
+EASY	12275	Bandos crozier
+EASY	12271	Bandos mitre
+EASY	12267	Bandos robe legs
+EASY	12265	Bandos robe top
+EASY	12269	Bandos stole
+EASY	12245	Beanie
+EASY	11282	Beret mask
+EASY	2635	Black beret
+EASY	12375	Black cane
+EASY	2595	Black full helm (g)
+EASY	2587	Black full helm (t)
+EASY	10306	Black helm (h1)
+EASY	10308	Black helm (h2)
+EASY	10310	Black helm (h3)
+EASY	10312	Black helm (h4)
+EASY	10314	Black helm (h5)
+EASY	2597	Black kiteshield (g)
+EASY	2589	Black kiteshield (t)
+EASY	12297	Black pickaxe
+EASY	2591	Black platebody (g)
+EASY	23366	Black platebody (h1)
+EASY	23369	Black platebody (h2)
+EASY	23372	Black platebody (h3)
+EASY	23375	Black platebody (h4)
+EASY	23378	Black platebody (h5)
+EASY	2583	Black platebody (t)
+EASY	2593	Black platelegs (g)
+EASY	2585	Black platelegs (t)
+EASY	3473	Black plateskirt (g)
+EASY	3472	Black plateskirt (t)
+EASY	7332	Black shield (h1)
+EASY	7338	Black shield (h2)
+EASY	7344	Black shield (h3)
+EASY	7350	Black shield (h4)
+EASY	7356	Black shield (h5)
+EASY	12445	Black skirt (g)
+EASY	12447	Black skirt (t)
+EASY	12453	Black wizard hat (g)
+EASY	12455	Black wizard hat (t)
+EASY	12449	Black wizard robe (g)
+EASY	12451	Black wizard robe (t)
+EASY	2633	Blue beret
+EASY	10428	Blue elegant blouse
+EASY	10410	Blue elegant legs
+EASY	10408	Blue elegant shirt
+EASY	10430	Blue elegant skirt
+EASY	7386	Blue skirt (g)
+EASY	7388	Blue skirt (t)
+EASY	7394	Blue wizard hat (g)
+EASY	7396	Blue wizard hat (t)
+EASY	7390	Blue wizard robe (g)
+EASY	7392	Blue wizard robe (t)
+EASY	10322	Bob's black shirt
+EASY	10318	Bob's blue shirt
+EASY	10320	Bob's green shirt
+EASY	10324	Bob's purple shirt
+EASY	10316	Bob's red shirt
+EASY	12211	Bronze full helm (g)
+EASY	12221	Bronze full helm (t)
+EASY	12213	Bronze kiteshield (g)
+EASY	12223	Bronze kiteshield (t)
+EASY	12205	Bronze platebody (g)
+EASY	12215	Bronze platebody (t)
+EASY	12207	Bronze platelegs (g)
+EASY	12217	Bronze platelegs (t)
+EASY	12209	Bronze plateskirt (g)
+EASY	12219	Bronze plateskirt (t)
+EASY	23351	Cape of skulls
+EASY	10394	Flared trousers
+EASY	12251	Goblin mask
+EASY	20208	Golden apron
+EASY	20205	Golden chef's hat
+EASY	10432	Green elegant blouse
+EASY	10414	Green elegant legs
+EASY	10412	Green elegant shirt
+EASY	10434	Green elegant skirt
+EASY	10448	Guthix cloak
+EASY	10442	Guthix crozier
+EASY	10454	Guthix mitre
+EASY	10466	Guthix robe legs
+EASY	10462	Guthix robe top
+EASY	10472	Guthix stole
+EASY	23360	Ham joint
+EASY	2631	Highwayman mask
+EASY	20220	Holy blessing
+EASY	20229	Honourable blessing
+EASY	12249	Imp mask
+EASY	12241	Iron full helm (g)
+EASY	12231	Iron full helm (t)
+EASY	12243	Iron kiteshield (g)
+EASY	12233	Iron kiteshield (t)
+EASY	12235	Iron platebody (g)
+EASY	12225	Iron platebody (t)
+EASY	12237	Iron platelegs (g)
+EASY	12227	Iron platelegs (t)
+EASY	12239	Iron plateskirt (g)
+EASY	12229	Iron plateskirt (t)
+EASY	20164	Large spade
+EASY	23381	Leather body (g)
+EASY	23384	Leather chaps (g)
+EASY	20202	Monk's robe (g)
+EASY	20199	Monk's robe top (g)
+EASY	10396	Pantaloons
+EASY	20226	Peaceful blessing
+EASY	23357	Rain bow
+EASY	12247	Red beret
+EASY	10424	Red elegant blouse
+EASY	10406	Red elegant legs
+EASY	10404	Red elegant shirt
+EASY	10426	Red elegant skirt
+EASY	10446	Saradomin cloak
+EASY	10440	Saradomin crozier
+EASY	10452	Saradomin mitre
+EASY	10464	Saradomin robe legs
+EASY	10458	Saradomin robe top
+EASY	10470	Saradomin stole
+EASY	10398	Sleeping cap
+EASY	23363	Staff of Bob the Cat
+EASY	20178	Steel full helm (g)
+EASY	20193	Steel full helm (t)
+EASY	20181	Steel kiteshield (g)
+EASY	20196	Steel kiteshield (t)
+EASY	20169	Steel platebody (g)
+EASY	20184	Steel platebody (t)
+EASY	20172	Steel platelegs (g)
+EASY	20187	Steel platelegs (t)
+EASY	20175	Steel plateskirt (g)
+EASY	20190	Steel plateskirt (t)
+EASY	7362	Studded body (g)
+EASY	7364	Studded body (t)
+EASY	7366	Studded chaps (g)
+EASY	7368	Studded chaps (t)
+EASY	20223	Unholy blessing
+EASY	20232	War blessing
+EASY	2637	White beret
+EASY	10280	Willow comp bow
+EASY	20166	Wooden shield (g)
+EASY	10450	Zamorak cloak
+EASY	10444	Zamorak crozier
+EASY	10456	Zamorak mitre
+EASY	10468	Zamorak robe legs
+EASY	10460	Zamorak robe top
+EASY	10474	Zamorak stole
+MEDIUM	12377	Adamant cane
+MEDIUM	2613	Adamant full helm (g)
+MEDIUM	2605	Adamant full helm (t)
+MEDIUM	10296	Adamant helm (h1)
+MEDIUM	10298	Adamant helm (h2)
+MEDIUM	10300	Adamant helm (h3)
+MEDIUM	10302	Adamant helm (h4)
+MEDIUM	10304	Adamant helm (h5)
+MEDIUM	2611	Adamant kiteshield (g)
+MEDIUM	2603	Adamant kiteshield (t)
+MEDIUM	2607	Adamant platebody (g)
+MEDIUM	23392	Adamant platebody (h1)
+MEDIUM	23395	Adamant platebody (h2)
+MEDIUM	23398	Adamant platebody (h3)
+MEDIUM	23401	Adamant platebody (h4)
+MEDIUM	23404	Adamant platebody (h5)
+MEDIUM	2599	Adamant platebody (t)
+MEDIUM	2609	Adamant platelegs (g)
+MEDIUM	2601	Adamant platelegs (t)
+MEDIUM	3475	Adamant plateskirt (g)
+MEDIUM	3474	Adamant plateskirt (t)
+MEDIUM	7334	Adamant shield (h1)
+MEDIUM	7340	Adamant shield (h2)
+MEDIUM	7346	Adamant shield (h3)
+MEDIUM	7352	Adamant shield (h4)
+MEDIUM	7358	Adamant shield (h5)
+MEDIUM	20251	Arceuus banner
+MEDIUM	7327	Black boater
+MEDIUM	10402	Black elegant legs
+MEDIUM	10400	Black elegant shirt
+MEDIUM	2647	Black headband
+MEDIUM	20246	Black leprechaun hat
+MEDIUM	20266	Black unicorn mask
+MEDIUM	7325	Blue boater
+MEDIUM	12301	Blue headband
+MEDIUM	2649	Brown headband
+MEDIUM	20272	Cabbage round shield
+MEDIUM	12361	Cat mask
+MEDIUM	23413	Climbing boots (g)
+MEDIUM	20249	Clueless scroll
+MEDIUM	20243	Crier bell
+MEDIUM	20240	Crier coat
+MEDIUM	12319	Crier hat
+MEDIUM	12343	Gold elegant blouse
+MEDIUM	12349	Gold elegant legs
+MEDIUM	12347	Gold elegant shirt
+MEDIUM	12345	Gold elegant skirt
+MEDIUM	12303	Gold headband
+MEDIUM	7323	Green boater
+MEDIUM	7370	Green d'hide body (g)
+MEDIUM	7372	Green d'hide body (t)
+MEDIUM	7378	Green d'hide chaps (g)
+MEDIUM	7380	Green d'hide chaps (t)
+MEDIUM	12307	Green headband
+MEDIUM	12598	Holy sandals
+MEDIUM	20254	Hosidius banner
+MEDIUM	12359	Leprechaun hat
+MEDIUM	20257	Lovakengj banner
+MEDIUM	12283	Mithril full helm (g)
+MEDIUM	12293	Mithril full helm (t)
+MEDIUM	12281	Mithril kiteshield (g)
+MEDIUM	12291	Mithril kiteshield (t)
+MEDIUM	12277	Mithril platebody (g)
+MEDIUM	12287	Mithril platebody (t)
+MEDIUM	12279	Mithril platelegs (g)
+MEDIUM	12289	Mithril platelegs (t)
+MEDIUM	12285	Mithril plateskirt (g)
+MEDIUM	12295	Mithril plateskirt (t)
+MEDIUM	7321	Orange boater
+MEDIUM	12428	Penguin mask
+MEDIUM	12309	Pink boater
+MEDIUM	12339	Pink elegant blouse
+MEDIUM	12317	Pink elegant legs
+MEDIUM	12315	Pink elegant shirt
+MEDIUM	12341	Pink elegant skirt
+MEDIUM	12305	Pink headband
+MEDIUM	20260	Piscarilius banner
+MEDIUM	12311	Purple boater
+MEDIUM	10436	Purple elegant blouse
+MEDIUM	10418	Purple elegant legs
+MEDIUM	10416	Purple elegant shirt
+MEDIUM	10438	Purple elegant skirt
+MEDIUM	2577	Ranger boots
+MEDIUM	7319	Red boater
+MEDIUM	2645	Red headband
+MEDIUM	20263	Shayzien banner
+MEDIUM	23389	Spiked manacles
+MEDIUM	10364	Strength amulet (t)
+MEDIUM	12313	White boater
+MEDIUM	10420	White elegant blouse
+MEDIUM	10422	White elegant skirt
+MEDIUM	12299	White headband
+MEDIUM	20269	White unicorn mask
+MEDIUM	2579	Wizard boots
+MEDIUM	23410	Wolf cloak
+MEDIUM	23407	Wolf mask
+MEDIUM	10282	Yew comp bow
+HARD	10344	3rd Age amulet
+HARD	10350	3rd Age full helmet
+HARD	10352	3rd Age kiteshield
+HARD	10342	3rd Age mage hat
+HARD	10348	3rd Age platebody
+HARD	10346	3rd Age platelegs
+HARD	10334	3rd Age range coif
+HARD	10332	3rd Age range legs
+HARD	10330	3rd Age range top
+HARD	10340	3rd Age robe
+HARD	10338	3rd Age robe top
+HARD	10336	3rd Age vambraces
+HARD	10362	Amulet of glory (t)
+HARD	10360	Amulet of glory (t1)
+HARD	10358	Amulet of glory (t2)
+HARD	10356	Amulet of glory (t3)
+HARD	10354	Amulet of glory (t4)
+HARD	11966	Amulet of glory (t5)
+HARD	11964	Amulet of glory (t6)
+HARD	12490	Ancient bracers
+HARD	12494	Ancient chaps
+HARD	12496	Ancient coif
+HARD	12492	Ancient d'hide body
+HARD	19921	Ancient d'hide boots
+HARD	23197	Ancient d'hide shield
+HARD	12466	Ancient full helm
+HARD	12468	Ancient kiteshield
+HARD	12460	Ancient platebody
+HARD	12462	Ancient platelegs
+HARD	12464	Ancient plateskirt
+HARD	12506	Armadyl bracers
+HARD	12510	Armadyl chaps
+HARD	12512	Armadyl coif
+HARD	12508	Armadyl d'hide body
+HARD	19930	Armadyl d'hide boots
+HARD	23200	Armadyl d'hide shield
+HARD	12476	Armadyl full helm
+HARD	12478	Armadyl kiteshield
+HARD	12470	Armadyl platebody
+HARD	12472	Armadyl platelegs
+HARD	12474	Armadyl plateskirt
+HARD	12498	Bandos bracers
+HARD	12502	Bandos chaps
+HARD	12504	Bandos coif
+HARD	12500	Bandos d'hide body
+HARD	19924	Bandos d'hide boots
+HARD	23203	Bandos d'hide shield
+HARD	12486	Bandos full helm
+HARD	12488	Bandos kiteshield
+HARD	12480	Bandos platebody
+HARD	12482	Bandos platelegs
+HARD	12484	Bandos plateskirt
+HARD	2643	Black cavalier
+HARD	12524	Black dragon mask
+HARD	7374	Blue d'hide body (g)
+HARD	7376	Blue d'hide body (t)
+HARD	7382	Blue d'hide chaps (g)
+HARD	7384	Blue d'hide chaps (t)
+HARD	12520	Blue dragon mask
+HARD	11280	Cavalier mask
+HARD	19915	Cyclops head
+HARD	2641	Dark cavalier
+HARD	22234	Dragon boots (g)
+HARD	23206	Dual sai
+HARD	7400	Enchanted hat
+HARD	7398	Enchanted robe
+HARD	7399	Enchanted top
+HARD	12514	Explorer backpack
+HARD	20155	Gilded 2h sword
+HARD	20149	Gilded chainbody
+HARD	3486	Gilded full helm
+HARD	20161	Gilded hasta
+HARD	3488	Gilded kiteshield
+HARD	20146	Gilded med helm
+HARD	3481	Gilded platebody
+HARD	3483	Gilded platelegs
+HARD	3485	Gilded plateskirt
+HARD	20158	Gilded spear
+HARD	20152	Gilded sq shield
+HARD	12518	Green dragon mask
+HARD	10376	Guthix bracers
+HARD	10380	Guthix chaps
+HARD	10382	Guthix coif
+HARD	10378	Guthix d'hide body
+HARD	19927	Guthix d'hide boots
+HARD	23188	Guthix d'hide shield
+HARD	2673	Guthix full helm
+HARD	2675	Guthix kiteshield
+HARD	2669	Guthix platebody
+HARD	2671	Guthix platelegs
+HARD	3480	Guthix plateskirt
+HARD	10284	Magic comp bow
+HARD	12325	Navy cavalier
+HARD	19918	Nunchaku
+HARD	2651	Pirate's hat
+HARD	12516	Pith helmet
+HARD	12323	Red cavalier
+HARD	12327	Red d'hide body (g)
+HARD	12331	Red d'hide body (t)
+HARD	12329	Red d'hide chaps (g)
+HARD	12333	Red d'hide chaps (t)
+HARD	12522	Red dragon mask
+HARD	2581	Robin Hood hat
+HARD	12379	Rune cane
+HARD	2619	Rune full helm (g)
+HARD	2627	Rune full helm (t)
+HARD	10286	Rune helm (h1)
+HARD	10288	Rune helm (h2)
+HARD	10290	Rune helm (h3)
+HARD	10292	Rune helm (h4)
+HARD	10294	Rune helm (h5)
+HARD	2621	Rune kiteshield (g)
+HARD	2629	Rune kiteshield (t)
+HARD	2615	Rune platebody (g)
+HARD	23209	Rune platebody (h1)
+HARD	23212	Rune platebody (h2)
+HARD	23215	Rune platebody (h3)
+HARD	23218	Rune platebody (h4)
+HARD	23221	Rune platebody (h5)
+HARD	2623	Rune platebody (t)
+HARD	2617	Rune platelegs (g)
+HARD	2625	Rune platelegs (t)
+HARD	3476	Rune plateskirt (g)
+HARD	3477	Rune plateskirt (t)
+HARD	7336	Rune shield (h1)
+HARD	7342	Rune shield (h2)
+HARD	7348	Rune shield (h3)
+HARD	7354	Rune shield (h4)
+HARD	7360	Rune shield (h5)
+HARD	10384	Saradomin bracers
+HARD	10388	Saradomin chaps
+HARD	10390	Saradomin coif
+HARD	10386	Saradomin d'hide body
+HARD	19933	Saradomin d'hide boots
+HARD	23191	Saradomin d'hide shield
+HARD	2665	Saradomin full helm
+HARD	2667	Saradomin kiteshield
+HARD	2661	Saradomin platebody
+HARD	2663	Saradomin platelegs
+HARD	3479	Saradomin plateskirt
+HARD	2639	Tan cavalier
+HARD	23224	Thieving bag
+HARD	12321	White cavalier
+HARD	10368	Zamorak bracers
+HARD	10372	Zamorak chaps
+HARD	10374	Zamorak coif
+HARD	10370	Zamorak d'hide body
+HARD	19936	Zamorak d'hide boots
+HARD	23194	Zamorak d'hide shield
+HARD	2657	Zamorak full helm
+HARD	2659	Zamorak kiteshield
+HARD	2653	Zamorak platebody
+HARD	2655	Zamorak platelegs
+HARD	3478	Zamorak plateskirt
+HARD	19912	Zombie head
+ELITE	12424	3rd Age bow
+ELITE	12437	3rd Age cloak
+ELITE	12426	3rd Age longsword
+ELITE	12422	3rd Age wand
+ELITE	23270	Adamant dragon mask
+ELITE	12430	Afro
+ELITE	19943	Arceuus scarf
+ELITE	12355	Big pirate hat
+ELITE	12381	Black d'hide body (g)
+ELITE	12385	Black d'hide body (t)
+ELITE	12383	Black d'hide chaps (g)
+ELITE	12387	Black d'hide chaps (t)
+ELITE	19988	Blacksmith's helm
+ELITE	12335	Briefcase
+ELITE	12363	Bronze dragon mask
+ELITE	19991	Bucket helm
+ELITE	19970	Dark bow tie
+ELITE	19964	Dark trousers
+ELITE	19961	Dark tuxedo cuffs
+ELITE	19958	Dark tuxedo jacket
+ELITE	19967	Dark tuxedo shoes
+ELITE	12540	Deerstalker
+ELITE	12373	Dragon cane
+ELITE	12414	Dragon chainbody (g)
+ELITE	12417	Dragon full helm (g)
+ELITE	22244	Dragon kiteshield (g)
+ELITE	22242	Dragon platebody (g)
+ELITE	12415	Dragon platelegs (g)
+ELITE	12416	Dragon plateskirt (g)
+ELITE	20000	Dragon scimitar (or)
+ELITE	12418	Dragon sq shield (g)
+ELITE	23246	Fremennik kilt
+ELITE	23252	Giant boot
+ELITE	23279	Gilded axe
+ELITE	12391	Gilded boots
+ELITE	23258	Gilded coif
+ELITE	23264	Gilded d'hide body
+ELITE	23267	Gilded d'hide chaps
+ELITE	23261	Gilded d'hide vambraces
+ELITE	23276	Gilded pickaxe
+ELITE	12389	Gilded scimitar
+ELITE	23282	Gilded spade
+ELITE	19941	Heavy casket
+ELITE	19997	Holy wraps
+ELITE	19946	Hosidius scarf
+ELITE	12365	Iron dragon mask
+ELITE	12357	Katana
+ELITE	12371	Lava dragon mask
+ELITE	19985	Light bow tie
+ELITE	19979	Light trousers
+ELITE	19976	Light tuxedo cuffs
+ELITE	19973	Light tuxedo jacket
+ELITE	19982	Light tuxedo shoes
+ELITE	19949	Lovakengj scarf
+ELITE	12369	Mithril dragon mask
+ELITE	12353	Monocle
+ELITE	12351	Musketeer hat
+ELITE	12443	Musketeer pants
+ELITE	12441	Musketeer tabard
+ELITE	12399	Partyhat & specs
+ELITE	12412	Pirate hat & patch
+ELITE	19952	Piscarilius scarf
+ELITE	19994	Ranger gloves
+ELITE	23249	Rangers' tights
+ELITE	12596	Rangers' tunic
+ELITE	23185	Ring of 3rd Age
+ELITE	20005	Ring of nature
+ELITE	12397	Royal crown
+ELITE	12395	Royal gown bottom
+ELITE	12393	Royal gown top
+ELITE	12439	Royal sceptre
+ELITE	23273	Rune dragon mask
+ELITE	12337	Sagacious spectacles
+ELITE	19955	Shayzien scarf
+ELITE	12367	Steel dragon mask
+ELITE	12432	Top hat
+ELITE	12434	Top hat & monocle
+ELITE	23255	Uri's hat
+MASTER	20011	3rd Age axe
+MASTER	23345	3rd Age druidic cloak
+MASTER	23339	3rd Age druidic robe bottoms
+MASTER	23336	3rd Age druidic robe top
+MASTER	23342	3rd Age druidic staff
+MASTER	28226	3rd Age felling axe
+MASTER	20014	3rd Age pickaxe
+MASTER	20056	Ale of the gods
+MASTER	20101	Ankou gloves
+MASTER	20095	Ankou mask
+MASTER	20107	Ankou socks
+MASTER	20098	Ankou top
+MASTER	20104	Ankou's leggings
+MASTER	20113	Arceuus hood
+MASTER	20026	Black demon mask
+MASTER	20140	Boots of darkness
+MASTER	20110	Bowl wig
+MASTER	20059	Bucket helm (g)
+MASTER	19727	Double eye patch
+MASTER	20008	Fancy tiara
+MASTER	20134	Gloves of darkness
+MASTER	20023	Greater demon mask
+MASTER	20053	Half moon spectacles
+MASTER	20128	Hood of darkness
+MASTER	20116	Hosidius hood
+MASTER	20032	Jungle demon mask
+MASTER	19724	Left eye patch
+MASTER	20020	Lesser demon mask
+MASTER	20119	Lovakengj hood
+MASTER	20083	Mummy's body
+MASTER	20092	Mummy's feet
+MASTER	20086	Mummy's hands
+MASTER	20080	Mummy's head
+MASTER	20089	Mummy's legs
+MASTER	20050	Obsidian cape (r)
+MASTER	20029	Old demon mask
+MASTER	20122	Piscarilius hood
+MASTER	1025	Right eye patch
+MASTER	20017	Ring of coins
+MASTER	20137	Robe bottom of darkness
+MASTER	20131	Robe top of darkness
+MASTER	20047	Samurai boots
+MASTER	20041	Samurai gloves
+MASTER	20044	Samurai greaves
+MASTER	20035	Samurai kasa
+MASTER	20038	Samurai shirt
+MASTER	22675	Scroll sack
+MASTER	20125	Shayzien hood
